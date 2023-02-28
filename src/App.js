@@ -10,10 +10,15 @@ function App() {
   return (
   <div>
       <Navbar />
+
       <Home />
-      <About/>
+
+      <About />
+      
       <Portfolio />
+
       <Experience />
+      
       <Contact/>
 
       <SocialLinks/>

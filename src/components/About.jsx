@@ -13,25 +13,27 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
-        </p>
+        <div className="my-8">
+          <p className="text-xl">
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
+            deserunt illum mollitia officiis qui exercitationem perferendis
+            neque quasi a recusandae necessitatibus tempora iusto! Blanditiis
+            error iste, totam fugiat recusandae rerum laborum perferendis
+            molestiae aperiam asperiores nemo. Magni dolor maxime debitis vitae,
+            eaque hic ab mollitia voluptatibus, a nostrum eveniet laborum!
+          </p>
+        </div>
 
-        <br />
-
-        <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
-        </p>
+        <div className="my-8">
+          <p className="text-xl">
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
+            pariatur, vel similique sint, nobis aspernatur ut praesentium
+            explicabo ipsam aliquid quasi laboriosam et culpa possimus
+            repudiandae quisquam ullam maiores ab unde. Fugiat odio mollitia
+            nemo alias. Commodi facilis atque nulla vero voluptatem explicabo.
+            Quibusdam, magni quo! Eum cupiditate debitis labore.
+          </p>
+        </div>
       </div>
     </div>
   );
